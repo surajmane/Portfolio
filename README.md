@@ -1,4 +1,10 @@
-## Welcome to GitHub Pages
+# Project Portfolio
+
+### First year Master's student at Virginia Tech majoring in Machine Learning and Data Analytics.
+
+Projects below touch areas like Machine learning, Web scraping, Visualizations and Data Analytics.
+
+
 
 You can use the [editor on GitHub](https://github.com/surajmane/surajmane.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
