@@ -1,43 +1,53 @@
-# Project Portfolio
+<!DOCTYPE html>
+<html>
+<head>
+	<h1 style="text-align:center">Suraj Mane</h1>
+	<link rel="stylesheet" href="portfolio.css">
+</head>
+<body>
+	<div class="about-section">
+		<p>A Master's student with Computer Science department at Virginia Tech</p>
+		<p>Looking for opportunities in the areas of Development, Data Science and Analytics</p>
+	</div>
+    <h2 style="text-align:center">Projects</h2>
+	
+<div class="row">
+  <div class="column">
+    <div class="card">
+	  <h2 style="text-align:center;">Telecom churn</h2>
+	  <p class="title">Exploratory Analysis</p>
+      <div class="container">
+        <!-- <p class="title">CEO & Founder</p> -->
+		<img src="telecom.jpg" alt="telecom" width="200" height="250" style="text-align:center;">
+        <p>Analyzing Telecom dataset to find out the relationship of churn rate with other variables</p>
+        <a class="button" href='https://github.com/surajmane/Telecom'>View project</a>
+      </div>
+    </div>
+  </div>
 
-### First year Master's student at Virginia Tech majoring in Machine Learning and Data Analytics.
+  <div class="column">
+    <div class="card">
+      <div class="container">
+        <h2 style="text-align:center;">Movie reviews</h2>
+        <p class="title">Web scraping</p>
+		<img src="movies.jpg" alt="movies" width="200" height="250" style="text-align:center;">
+        <p>Getting average rating from Rottentomatoes and a short description of the movie given</p>
+        <a class="button" href='https://github.com/surajmane/Movie_reviews'>View project</a>
+      </div>
+    </div>
+  </div>
 
-Projects below touch areas like Machine learning, Web scraping, Visualizations and Data Analytics.
-
-
-
-You can use the [editor on GitHub](https://github.com/surajmane/surajmane.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/surajmane/surajmane.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+  <div class="column">
+    <div class="card">
+      <div class="container">
+        <h2 style="text-align:center;">Classification</h2>
+        <p class="title">Naive Bayes classification</p>
+		<img src="naive.png" alt="Naive Bayes" width="200" height="250" style="text-align:center;">
+        <p>Predicting text messages as spam and not spam using Naive Bayes classification algorithm</p>
+		<a class="button" href='https://github.com/surajmane/Naive_Bayes_classifier'>View project</a>
+      </div>
+    </div>
+  </div>
+</div>
+</body>
+</html>
