@@ -1,10 +1,1 @@
 theme: jekyll-theme-merlot
-plugins:
-  - jekyll-redirect-from
-whitelist:
-  - jekyll-redirect-from
-  
-title: https://surajmane.github.io/portfolio/
-redirect_from:
-  - https://surajmane.github.io/portfolio/
-  - https://surajmane.github.io/Portfolio/
